@@ -1,4 +1,4 @@
-requirements: pygame, numpy
+requirements: pygame, numpy<br>
 you should execute compiler.py before main.py
 
 my website: https://thepythoner.pythonanywhere.com/
