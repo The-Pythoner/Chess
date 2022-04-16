@@ -1,2 +1,3 @@
 <p>requirements: pygame, numpy</p>
-<p>my website: </p><a href="https://thepythoner.pythonanywhere.com" target="_blank">The Pythoner</a>
+<h1>My website | Mon site web:</h1>
+<a href="https://thepythoner.pythonanywhere.com" target="_blank">The Pythoner</a>
